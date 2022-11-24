@@ -1787,7 +1787,8 @@ a.bg-danger:hover {
 ol,
 ul {
     margin-top: 0;
-    margin-bottom: 10px
+    margin-bottom: 10px;
+    padding-left: 16px
 }
 
 ol ol,
@@ -2288,6 +2289,9 @@ pre code {
 
 .col-xs-offset-0 {
     margin-left: 0
+}
+.col-sm-4 span {
+    margin-right: 20px;
 }
 
 @media (min-width:768px) {
